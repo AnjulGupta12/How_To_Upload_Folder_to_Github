@@ -28,6 +28,8 @@ This repository is for the learning purpose "How to upload Folder to the GitHub"
     <p>          this is repository link </br>
               this origin word will create problem sometime as i told at 5th as problem to remove this there if it cause prob</p>
  11. git push -u origin master
- 12. git config --global http.sslbackend schannel
+</br>now refresh your github page
+</br>only if till here it is not working go for these two step</br>
+12. git config --global http.sslbackend schannel
  13. git push -u origin master
 
