@@ -33,3 +33,10 @@ This repository is for the learning purpose "How to upload Folder to the GitHub"
 12. git config --global http.sslbackend schannel
  13. git push -u origin master
 
+<h1>OR</h1>
+There isn’t a way to upload an entire folder through the web UI. The easiest way to do that would be to:
+
+Clone the repository locally</br>
+Make the changes to the local version</br>
+Commit the changes locally</br>
+Push the changes back up to the GitHub repository</br>
